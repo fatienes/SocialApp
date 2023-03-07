@@ -1,0 +1,25 @@
+<div class="conainer mt-3" >
+  <div class="row">
+    <div class="col-sm-4">
+        <div class="card">
+          <div class="img-container"></div>
+          <img src="{{ user?.images[0].name}}" class="card-img-top img-thumbnail" alt="{{ user?.name }}">
+        </div>
+        <div class="card-body">
+          <div>
+            <strong>Location</strong>
+            <p>{{ user.country}}, {{user.city}}</p>
+          </div>
+          <div>
+            <strong>Age</strong>
+            <p>{{ user.age}}</p>
+          </div>
+          <div>
+            <strong>Last Active</strong>
+            <p>{{ user.lastActive}}</p>
+          </div>
+        </div>
+    </div>
+    <div class="col-sm-8"></div>
+  </div>
+</div>

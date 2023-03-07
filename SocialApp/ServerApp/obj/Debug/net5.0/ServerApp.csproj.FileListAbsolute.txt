@@ -1,0 +1,450 @@
+C:\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ref\ServerApp.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csprojAssemblyReference.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\SocialApp\ServerApp\obj\Debug\net5.0\scopedcss\bundle\ServerApp.styles.css
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CopyComplete
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+C:\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Humanizer.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\Data\user.json
+C:\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.dll
+C:\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Data\user.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ref\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csprojAssemblyReference.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\scopedcss\bundle\ServerApp.styles.css
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CopyComplete
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Data\user.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.StaticWebAssets.xml
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\scopedcss\bundle\ServerApp.styles.css
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CopyComplete
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\refint\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
+C:\Users\Fatih Enes Savcılı\Desktop\Yeni klasör\SocialApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Data\user.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.StaticWebAssets.xml
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\scopedcss\bundle\ServerApp.styles.css
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CopyComplete
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\refint\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
+C:\Users\Fatih Enes Savcılı\Desktop\projem\SocialApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Data\user.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.StaticWebAssets.xml
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.exe
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.deps.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\scopedcss\bundle\ServerApp.styles.css
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.csproj.CopyComplete
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\refint\ServerApp.dll
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.pdb
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
+C:\Users\Fatih Enes Savcılı\Desktop\fatih\projem\SocialApp\ServerApp\obj\Debug\net5.0\ref\ServerApp.dll
